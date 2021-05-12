@@ -34,7 +34,7 @@ Win10
 參考來源:https://rainmakerho.github.io/2021/02/04/Migrate-MS-SQL-to-PostgreSQL-1/
 
 #突發狀況:
-
+![image](https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723551223.jpg)
 
 #資料庫內容:
 總共:298筆
