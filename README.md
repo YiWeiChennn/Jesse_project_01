@@ -22,3 +22,27 @@ Demo用的SQL檔
 
 #作業系統
 Win10
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+
+- SSMS_for_PostgreSQL_import -
+
+#基本說明:
+將 SSMS 將資料透過 PostgreSql ODBC 匯出到 PostgreSQL 
+參考來源:https://rainmakerho.github.io/2021/02/04/Migrate-MS-SQL-to-PostgreSQL-1/
+
+#突發狀況:
+
+
+#資料庫內容:
+總共:298筆
+
+
+
+#附加檔案:
+MacHTA.sql
+
+#作業系統:
+Win
