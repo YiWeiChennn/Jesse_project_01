@@ -37,6 +37,7 @@ Win10
 -左圖為將資料全部選取匯入畫面<br>
 -右圖為送出時跑出的警示畫面，語法不同所導致<br>
 <以至於輸出後無法匯出完整的資料庫><br>
+<br>
 <div align="center">
 	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723551223.jpg" alt="Editor" width="500" height="600">
 	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723570429.jpg" alt="Editor" width="500" height="600">
@@ -47,7 +48,7 @@ Win10
 匯入正常:206筆(資料庫目前數量)<br>
 匯入不完全:39筆(由於資料內容不完整，已先剔除)<br>
 匯入失敗:53筆<br>
-
+<br>
 - 匯入不正常:
 1.  assessformlist
 2.  assessformlistuser
