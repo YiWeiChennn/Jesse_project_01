@@ -33,9 +33,9 @@ Win10
 將 SSMS 將資料透過 PostgreSql ODBC 匯出到 PostgreSQL <br>
 參考來源:https://rainmakerho.github.io/2021/02/04/Migrate-MS-SQL-to-PostgreSQL-1/
 
-#突發狀況:
+#突發狀況:<br>
 ![image](https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723551223.jpg)
-
+<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723570429.jpg" width:375, height:400>
 #資料庫內容:
 總共:298筆
 
