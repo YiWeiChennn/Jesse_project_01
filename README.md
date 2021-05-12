@@ -35,8 +35,8 @@ Win10
 
 #突發狀況:<br>
 <div align="center">
-	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723551223.jpg" alt="Editor" width="500">
-	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723570429.jpg" alt="Editor" width="500">
+	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723551223.jpg" alt="Editor" width="500" height="600">
+	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723570429.jpg" alt="Editor" width="500" height="600">
 </div>
 
 #資料庫內容:
