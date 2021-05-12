@@ -34,8 +34,8 @@ Win10
 參考來源:https://rainmakerho.github.io/2021/02/04/Migrate-MS-SQL-to-PostgreSQL-1/
 
 #突發狀況:<br>
--左圖為將資料全部選取匯入畫面<br>
--右圖為送出時跑出的警示畫面，語法不同所導致<br>
+-上圖為將資料全部選取匯入畫面<br>
+-下圖為送出時跑出的警示畫面，語法不同所導致<br>
 <以至於輸出後無法匯出完整的資料庫><br>
 <br>
 <div align="center">
