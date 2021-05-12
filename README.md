@@ -41,8 +41,8 @@ Win10
 	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723551223.jpg" alt="Editor" width="500" height="600">
 	<img src="https://github.com/YiWeiChennn/Jesse_project_01/blob/main/1620723570429.jpg" alt="Editor" width="500" height="600">
 </div>
-
-#資料庫內容:
+<br>
+#資料庫內容:<br>
 總共:298筆<br>
 匯入正常:206筆(資料庫目前數量)<br>
 匯入不完全:39筆(由於資料內容不完整，已先剔除)<br>
