@@ -149,4 +149,4 @@ Win10
 MacHTA.sql
 
 #作業系統:
-Win
+Windows server 2012
