@@ -48,7 +48,7 @@ Win10
 匯入不完全:39筆(由於資料內容不完整，已先剔除)<br>
 匯入失敗:53筆<br>
 
-匯入不正常:
+- 匯入不正常:
 1.  assessformlist
 2.  assessformlistuser
 3.  assessformlistuseraudit
@@ -89,7 +89,7 @@ Win10
 38. systype
 39. usertodo
 
-匯入失敗:
+- 匯入失敗:
 1.  custsrvcontactlisttask
 2.  custsrvdailyreport
 3.  custsrvdailyreportback
